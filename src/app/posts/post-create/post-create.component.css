@@ -1,0 +1,18 @@
+mat-form-field{
+    width: 100%;
+}
+mat-spinner {
+    margin: auto;
+}
+input[type="file"]{
+    visibility: hidden;
+}
+
+.image-prevew{
+    height: 5rem;
+    margin: 1rem 0;
+}
+
+.image-prevew img{
+    height: 100%;
+}
