@@ -1,6 +1,6 @@
 const http = require('http');
 const debug = require('debug')('node-angular');
-const app = require('./backend/app');
+const app = require('./app');
 
 // const server = http.createServer((req, res) => {
 //     res.end('This is my response')
